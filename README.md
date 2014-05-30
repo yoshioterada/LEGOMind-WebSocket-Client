@@ -19,13 +19,20 @@ WebSocket (Tyrus) のクライアントライブラリが必要です。
 
 root@EV3:/home/lejos/lib# pwd
 /home/lejos/lib <---- lib ディレクトリを作成
+
 root@EV3:/home/lejos/lib# ls <------ 下記ファイルを事前にコピー
-grizzly-framework-2.3.3.jar         javax.websocket-client-api-1.0.jar
-grizzly-http-2.3.3.jar              tyrus-client-1.1.jar
-grizzly-http-server-2.3.3.jar       tyrus-container-grizzly-1.1.jar
-grizzly-rcm-2.3.3.jar               tyrus-core-1.1.jar
-javax.json-1.0.1.jar                tyrus-spi-1.1.jar
-javax.json-api-1.0.jar              tyrus-websocket-core-1.1.jar
+grizzly-framework-2.3.3.jar
+grizzly-http-2.3.3.jar
+grizzly-http-server-2.3.3.jar
+grizzly-rcm-2.3.3.jar
+javax.json-1.0.1.jar 
+javax.json-api-1.0.jar
 javax.websocket-api-1.0.jar
+javax.websocket-client-api-1.0.jar
+tyrus-client-1.1.jar
+tyrus-container-grizzly-1.1.jar
+tyrus-core-1.1.jar
+tyrus-spi-1.1.jar
+tyrus-websocket-core-1.1.jar
 
 
