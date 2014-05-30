@@ -20,7 +20,7 @@ WebSocket (Tyrus) のクライアントライブラリが必要です。
 root@EV3:/home/lejos/lib# pwd
 /home/lejos/lib <---- lib ディレクトリを作成
 
-root@EV3:/home/lejos/lib# ls <------ 下記ファイルを事前にコピー
+root@EV3:/home/lejos/lib# ディレクトリ配下に下記ファイルを事前にコピー ---------->
 grizzly-framework-2.3.3.jar
 grizzly-http-2.3.3.jar
 grizzly-http-server-2.3.3.jar
